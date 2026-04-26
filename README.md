@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @toshablackburn
-- 👀 I’m interested in creating content & websites for brands in the fashion, beauty, and cannabis sector
-- 🌱 I’m currently learning JavaScript / PHP basics & copywriting
-- 💞️ I’m looking to collaborate on -- 
+- 👀 I’m interested in strategy for creating content & websites for political candidates
+- 💞️ I’m looking to collaborate on politcal candidate campaigns -- 
 - 📫 Tosha.Blckburn@gmail.com
 
 <!---
